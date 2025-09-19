@@ -10,22 +10,9 @@
 		6353514C2E7DC587007A12BA /* Play in the sands of time.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Play in the sands of time.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		635351872E7DC6AC007A12BA /* Exceptions for "Play in the sands of time" folder in "Play in the sands of time" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				"Play-in-the-sands-of-time-Info.plist",
-			);
-			target = 6353514B2E7DC587007A12BA /* Play in the sands of time */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		6353514E2E7DC587007A12BA /* Play in the sands of time */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				635351872E7DC6AC007A12BA /* Exceptions for "Play in the sands of time" folder in "Play in the sands of time" target */,
-			);
 			path = "Play in the sands of time";
 			sourceTree = "<group>";
 		};
@@ -280,7 +267,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = sandstime.com;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sandstibe.pozl;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -315,7 +302,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = sandstime.com;
+				PRODUCT_BUNDLE_IDENTIFIER = com.sandstibe.pozl;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
